@@ -1,0 +1,10 @@
+
+        BEGIN:vcard
+        FN:Fariha Jahin
+        N:Jahin;Fariha
+        EMAIL;INTERNET:fjahin@gmail.com
+        TEL;WORK:9
+        VERSION: 2.1
+        END:VCARD
+    
+**********

@@ -1,0 +1,10 @@
+
+        BEGIN:vcard
+        FN:First Last
+        N:Last;First
+        EMAIL;INTERNET:email
+        TEL;WORK:123
+        VERSION: 2.1
+        END:VCARD
+    
+**********
